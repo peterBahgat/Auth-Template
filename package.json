@@ -1,0 +1,22 @@
+{
+  "name": "auth",
+  "version": "1.0.0",
+  "description": "auth template functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterBahgat/Auth-Template.git"
+  },
+  "keywords": [
+    "auth"
+  ],
+  "author": "peter bahgat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peterBahgat/Auth-Template/issues"
+  },
+  "homepage": "https://github.com/peterBahgat/Auth-Template#readme"
+}
